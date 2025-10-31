@@ -1,0 +1,7 @@
+def invertir_cadena(cadena):
+
+    return cadena[::-1]
+
+# Ejemplo de uso
+cadena = "bienvenidos"
+print(invertir_cadena(cadena))  # Salida: "odnuM aloH"
